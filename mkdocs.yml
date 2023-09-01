@@ -1,0 +1,50 @@
+site_asset_Id: "20330"
+site_name: "infinity_trans"
+site_space_Id: "112332"
+site_description: "product"
+site_Status: "Ready for use"
+site_MVP_Phase: ["collect"]
+site_Industry: "lifestyle"
+site_Domain: "Others" 
+site_Value_Proportion: "high"
+site_UPSs: "upss"
+site_Product_Variants: "varient2"
+site_Market: "lifestyle"
+site_Region: "india"
+site_SBU: "Connectivity"
+site_V0_X_PLM_100: "plm100"
+site_HW_SW: "hw"
+site_Cloud: "IBM"
+site_ASIL_level: "ASIL level 2"
+site_Showpad_link: "http://harman.com"
+site_Product_manager: ["arun"]
+site_Owner_details: "aravind"
+site_MRD_link: "http://harman.com"
+site_PRD_link: "http://harman.com"
+site_GTM_link: "http://harman.com"
+site_Roadmap_link: "http://harman.com"
+site_User_guide: "features"
+site_Business_Case_Approval: "Yes"
+site_Privacy: "low"
+site_SLA: "sla"
+site_License: "license"
+site_System_Architecture: "system"
+site_SDK_link: "http://harman.com"
+site_API_link: "http://harman.com"
+site_Developer_Guide_Link: "http://harman.com"
+site_Customers: ["customer"]
+site_Maturity: "3-5 years"
+site_Market_Share: 100
+site_Related_Products: ["jbl"]
+site_Related_Projects: ["jbls"] 
+site_Derived_Projects: ["jbl derived"]
+site_Competitors: ["boat"]
+site_price: {"currency":"USD","amount":"100000"}
+site_Business_Model: "b120"
+site_Additional_Info: "na"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
